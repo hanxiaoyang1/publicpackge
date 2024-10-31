@@ -7,7 +7,7 @@ const (
 	Age  int    = 12
 )
 
-func main() {
+func Printt() {
 	fmt.Println(111)
 	fmt.Println(name)
 	fmt.Println(Age)
