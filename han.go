@@ -4,7 +4,7 @@ import "fmt"
 
 const (
 	name string = "hxy"
-	Age  int    = 3
+	Age  int    = 1
 )
 
 func Printt() {
