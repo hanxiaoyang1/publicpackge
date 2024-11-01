@@ -1,4 +1,4 @@
-package publicpackge
+package hxy
 
 import "fmt"
 
@@ -8,7 +8,7 @@ const (
 )
 
 func Printt() {
-	fmt.Println(111)
+	fmt.Println(111, "baoming hxy")
 	fmt.Println(name)
 	fmt.Println(Age)
 
